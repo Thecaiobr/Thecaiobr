@@ -18,6 +18,9 @@ Estudante do 3º período de Ciência da Computação da PUCMG.
   <img align="left" alt="Java" width="6%" src="https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png" />
   <img align="left" alt="HTML5" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img align="left" alt="css3" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img align="left" alt="python" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <img align="left" alt="mysql" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+  <img align="left" alt="c#" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
   <img align="left" alt="javascript" width="6%"   src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" />
 </div>
 <br />
