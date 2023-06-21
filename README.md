@@ -5,12 +5,16 @@ Estudante do 5º período de Ciência da Computação da PUCMG.
 - Profissional dinâmico e engajado, smepre disposto em adquirir novos conhecimentos e aprender novas tecnologias
 - Líder com facilidade de trabalhar em equipe e lidar com pessoas
 - Inglês avançado e Holandes intermediário
+-Contatos 📁:
+<div>
+<a href =https://www.linkedin.com/in/caio-massote-a64815209/ target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href ="mailto:caio.massote8@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <div align="center">
   <a href="https://github.com/Thecaiobr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thecaiobr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thecaiobr&layout=compact&langs_count=7&theme=dark"/>
-    
 </div>
   
   ## Ferramentas e tecnologias / Tools and technologies.
