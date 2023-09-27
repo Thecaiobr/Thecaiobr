@@ -1,6 +1,6 @@
 ### Olá, Eu sou Caio Massote 👋
 
-Estudante do 5º período de Ciência da Computação da PUCMG.
+Estudante do 6º período de Ciência da Computação da PUCMG.
 
 - Profissional dinâmico e engajado, smepre disposto em adquirir novos conhecimentos e aprender novas tecnologias
 - Líder com facilidade de trabalhar em equipe e lidar com pessoas
