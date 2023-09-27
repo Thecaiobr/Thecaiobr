@@ -24,11 +24,12 @@ Estudante do 6º período de Ciência da Computação da PUCMG.
   <img align="left" alt="HTML5" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img align="left" alt="css3" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img align="left" alt="python" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  <img align="left" alt="mysql" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+  <img align="left" alt="postgresql" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
   <img align="left" alt="c#" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
   <img align="left" alt="javascript" width="6%"   src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" />
   <img align="left" alt="React" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <img align="left" alt="flutter" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+  <img align="left" alt="nodejs" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </div>
 <br />
 <br />
