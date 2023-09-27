@@ -16,7 +16,7 @@ Estudante do 6º período de Ciência da Computação da PUCMG.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thecaiobr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thecaiobr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  https://colab.research.google.com/drive/1dYbqfrS1g6IDJ5ghE6jTUcQCsYrlvJs1?usp=sharing
+ 
   ## Ferramentas e tecnologias / Tools and technologies.
 <div style="display: inline_block"><br>
   <img align="left" alt="C" width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
