@@ -1,12 +1,13 @@
-### Olá, Eu sou Caio Massote 👋
+### Hello, I'm Caio Massote  👋
 
-Bacharel em Ciência da Computação pela PUCMG.
+Bachelor of Computer Science from PUCMG.
 
-- Profissional dinâmico e engajado, smepre disposto em adquirir novos conhecimentos e aprender novas tecnologias
-- Líder com facilidade de trabalhar em equipe e lidar com pessoas
-- Inglês avançado e Holandes intermediário
+- FullStack Developer
+- Dynamic and engaged professional, always willing to acquire new knowledge and learn new technologies.
+- Leader with ease in working in teams and dealing with people.
+- Advanced English and intermediate Dutch.
 
--Contatos 📁:
+-Contacts 📁:
 <div>
 <a href =https://www.linkedin.com/in/caio-massote-a64815209/ target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href ="mailto:caio.massote8@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -14,11 +15,11 @@ Bacharel em Ciência da Computação pela PUCMG.
 
 <div align="center">
   <a href="https://github.com/Thecaiobr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thecaiobr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thecaiobr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thecaiobr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thecaiobr&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-  ## Ferramentas e tecnologias / Tools and technologies.
+  ## Tools and technologies.
 <div style="display: inline_block"><br>
   <img align="left" alt="javascript" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="left" alt="nodejs" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -31,12 +32,8 @@ Bacharel em Ciência da Computação pela PUCMG.
   <img align="left" alt="python" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
   <img align="left" alt="postgresql" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
   <img align="left" alt="flutter" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+  <img align="left" alt="flutter" width="6%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 </div>
 <br />
 <br />
-
-  
-  ##
-  
-
 
