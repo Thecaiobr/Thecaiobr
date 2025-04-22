@@ -5,7 +5,13 @@ Bachelor of Computer Science from PUCMG.
 - FullStack Developer
 - Dynamic and engaged professional, always willing to acquire new knowledge and learn new technologies.
 - Leader with ease in working in teams and dealing with people.
-- Advanced English and intermediate Dutch.
+
+### Hard Skills
+- Programming Languages: JavaScript, Java, Python, TypeScript, Node.js, C/C++
+- Frameworks: React, Express.js, NestJS
+- Databases: PostgreSQL, MySQL, MongoDB, ElasticSearch
+- Platforms & Tools: SYDLE ONE, GitHub, VS Code, Postman
+- Languages: Fluent Portuguese (Native) | Fluent English | Intermediate Dutch
 
 -Contacts 📁:
 <div>
