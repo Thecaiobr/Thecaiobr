@@ -7,10 +7,10 @@ Bachelor of Computer Science from PUCMG.
 - Leader with ease in working in teams and dealing with people.
 
 ### Hard Skills
-- Programming Languages: JavaScript, Java, Python, TypeScript, Node.js, C#
-- Frameworks: React, Express.js, ASP.NET, NextJs
-- Databases: PostgreSQL, MySQL, MongoDB, ElasticSearch
-- Platforms & Tools: SYDLE ONE, GitHub, VS Code, Postman
+- Programming Languages: JavaScript, C#, Python, TypeScript, Node.js, Java
+- Frameworks: React, ASP.NET Core, Entity Framework, NextJs, Express.js
+- Databases: SQLServer, PostgreSQL, MySQL, ElasticSearch
+- Platforms & Tools: GitHub, Azure DevOps, SYDLE ONE
 - Languages: Fluent Portuguese (Native) | Fluent English | Intermediate Dutch
 
 -Contacts 📁:
